@@ -8,3 +8,5 @@ Covering the topcis:
 6. nested if else
 7. Number system
 8. Operators
+9. prsedence
+10. associtivity
