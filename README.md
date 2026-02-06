@@ -6,6 +6,5 @@ Covering the topcis:
 4. if else
 5. while
 6. nested if else
-
-
-
+7. Number system
+8. Operators
