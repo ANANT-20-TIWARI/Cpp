@@ -10,3 +10,4 @@ Covering the topcis:
 8. Operators
 9. prsedence
 10. associtivity
+11. Array
