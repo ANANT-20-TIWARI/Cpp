@@ -13,4 +13,5 @@ Covering the topcis:
 11. Array
 12. pointers
 13. Refernces
-14. 
+14.Functions
+ 
