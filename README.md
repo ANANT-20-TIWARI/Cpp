@@ -11,3 +11,4 @@ Covering the topcis:
 9. prsedence
 10. associtivity
 11. Array
+12. pointers
