@@ -15,5 +15,6 @@ Covering the topcis:
 13. Refernces
 14.Functions
 
-15.Polymorphism 
+15.Polymorphism
+16.Fucntion like entites
  
